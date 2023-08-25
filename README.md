@@ -9,8 +9,6 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,tailwind,wordpress,php,)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats-sigma-liart.vercel.app/api/top-langs/?username=priyanshuchaudhary53&layout=compact&theme=dark&hide=hack)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
