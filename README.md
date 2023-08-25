@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Shaurya.
-- 🌱 I’m currently learning Front-End Technologies
-- 💞️ I’m looking to collaborate on anything that intrests me.
-- 📫 How to reach me ...Well, if you're a good developer you'd know!
 
 ```
 ████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
