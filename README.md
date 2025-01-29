@@ -39,7 +39,7 @@ const shaurya = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MySql", "sqlite"],
         misc: ["Firebase", "open-cv", "php"]
     },
     currentFocus: "Me",
