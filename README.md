@@ -28,9 +28,11 @@ const shauryaMohan = {
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryamohan20&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>⚡ Recent GitHub Activity</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="shauryamohan20's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shauryamohan20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+  
 
 
 ### Contact Me?
