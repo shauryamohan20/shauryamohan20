@@ -41,6 +41,8 @@ const shauryaMohan = {
 
 <a href="https://www.linkedin.com/in/shauryamohan/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" ></a><a href="https://discord.com/users/699917355618271305"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryamohan20&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 StratosHades/StratosHades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
